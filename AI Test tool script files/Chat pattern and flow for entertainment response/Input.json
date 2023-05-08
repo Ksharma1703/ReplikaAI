@@ -1,0 +1,1 @@
+{"name":"Input","children":[{"name":"Domain","children":[{"name":"Games"},{"name":"Movies"},{"name":"Music"},{"name":"TV"}]},{"name":"Grammar","children":[{"name":"Grammatical"},{"name":"Ungrammatical"}]},{"name":"Language","children":[{"name":"English"},{"name":"Foreign"}]},{"name":"Spelling","children":[{"name":"Correct"},{"name":"Incorrect"}]}]}
