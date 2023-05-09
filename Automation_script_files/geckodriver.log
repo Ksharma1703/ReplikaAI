@@ -1,0 +1,316 @@
+1683662074156	geckodriver	INFO	Listening on 127.0.0.1:49607
+1683662074601	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vk/mp6n1zx56d3bzzl2l4hk90p00000gn/T/rust_mozprofilePKrilX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683662074877	Marionette	INFO	Marionette enabled
+1683662075027	Marionette	INFO	Listening on port 49615
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:49608
+Read port: 49615
+1683662075168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/mp6n1zx56d3bzzl2l4hk90p00000gn/T/rust_mozprofilePKrilX/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:49608/devtools/browser/71ce98c4-058a-4bcc-b0d6-0fcf843fa6c8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://my.replika.com."
+JavaScript warning: https://1925482343.rsc.cdn77.org/unity_web_engine/6c1244fe25bcf0ed233dd43d17567db3.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1683662098273	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+1683662120197	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1683662208376	geckodriver	INFO	Listening on 127.0.0.1:49728
+1683662208822	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vk/mp6n1zx56d3bzzl2l4hk90p00000gn/T/rust_mozprofilexFY5Xe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683662209185	Marionette	INFO	Marionette enabled
+1683662209256	Marionette	INFO	Listening on port 49736
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:49729
+Read port: 49736
+1683662209433	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/mp6n1zx56d3bzzl2l4hk90p00000gn/T/rust_mozprofilexFY5Xe/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:49729/devtools/browser/8c5fa15a-faf1-4dd6-8123-48e3473a874c
+1683662214590	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1683662215860	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://my.replika.com."
+JavaScript warning: https://1925482343.rsc.cdn77.org/unity_web_engine/6c1244fe25bcf0ed233dd43d17567db3.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: drawElementsInstanced: Depth texture comparison requests (e.g. `LINEAR`) Filtering, but behavior is implementation-defined, and so on some systems will sometimes behave as `NEAREST`. (warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+1683662321572	geckodriver	INFO	Listening on 127.0.0.1:49869
+1683662322015	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vk/mp6n1zx56d3bzzl2l4hk90p00000gn/T/rust_mozprofileQUIy6Q"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683662322292	Marionette	INFO	Marionette enabled
+1683662322457	Marionette	INFO	Listening on port 49877
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:49870
+Read port: 49877
+1683662322595	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/mp6n1zx56d3bzzl2l4hk90p00000gn/T/rust_mozprofileQUIy6Q/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:49870/devtools/browser/85f42a07-54de-4c67-b5ea-4f6855beb92a
+1683662326904	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1683662327650	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://my.replika.com."
+1683662328861	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://1925482343.rsc.cdn77.org/unity_web_engine/6c1244fe25bcf0ed233dd43d17567db3.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1683662340933	geckodriver	INFO	Listening on 127.0.0.1:49987
+1683662341379	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vk/mp6n1zx56d3bzzl2l4hk90p00000gn/T/rust_mozprofileGbSJ7A"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683662341667	Marionette	INFO	Marionette enabled
+1683662341868	Marionette	INFO	Listening on port 49993
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 49993
+WebDriver BiDi listening on ws://127.0.0.1:49988
+1683662341918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/mp6n1zx56d3bzzl2l4hk90p00000gn/T/rust_mozprofileGbSJ7A/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:49988/devtools/browser/612e44da-e6e9-4d2c-9bf2-df2547f42f33
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://my.replika.com."
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: https://1925482343.rsc.cdn77.org/unity_web_engine/6c1244fe25bcf0ed233dd43d17567db3.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+1683662374736	Marionette	INFO	Stopped listening on port 49736
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1683663724001	geckodriver	INFO	Listening on 127.0.0.1:50232
+1683663724440	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vk/mp6n1zx56d3bzzl2l4hk90p00000gn/T/rust_mozprofileynhIaT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683663724812	Marionette	INFO	Marionette enabled
+1683663724870	Marionette	INFO	Listening on port 50238
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:50233
+Read port: 50238
+1683663725043	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/mp6n1zx56d3bzzl2l4hk90p00000gn/T/rust_mozprofileynhIaT/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:50233/devtools/browser/78e72875-6f68-4951-8d2b-e28c9f275997
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://my.replika.com."
+JavaScript warning: https://1925482343.rsc.cdn77.org/unity_web_engine/6c1244fe25bcf0ed233dd43d17567db3.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: drawElementsInstanced: Depth texture comparison requests (e.g. `LINEAR`) Filtering, but behavior is implementation-defined, and so on some systems will sometimes behave as `NEAREST`. (warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+1683663956343	Marionette	INFO	Stopped listening on port 50238
+1683663959722	Marionette	INFO	Stopped listening on port 49877
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1683663963064	Marionette	INFO	Stopped listening on port 49993
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1683664164777	geckodriver	INFO	Listening on 127.0.0.1:50397
+1683664165215	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vk/mp6n1zx56d3bzzl2l4hk90p00000gn/T/rust_mozprofilewGmZms"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683664165493	Marionette	INFO	Marionette enabled
+1683664165546	Marionette	INFO	Listening on port 50403
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:50398
+Read port: 50403
+1683664165726	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/mp6n1zx56d3bzzl2l4hk90p00000gn/T/rust_mozprofilewGmZms/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:50398/devtools/browser/a0792f54-ba55-4d94-b646-4bbe6f3a47ef
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://my.replika.com."
+JavaScript warning: https://1925482343.rsc.cdn77.org/unity_web_engine/6c1244fe25bcf0ed233dd43d17567db3.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: drawElementsInstanced: Depth texture comparison requests (e.g. `LINEAR`) Filtering, but behavior is implementation-defined, and so on some systems will sometimes behave as `NEAREST`. (warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+1683664199701	geckodriver	INFO	Listening on 127.0.0.1:50518
+1683664200142	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vk/mp6n1zx56d3bzzl2l4hk90p00000gn/T/rust_mozprofile2sfbRz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683664200424	Marionette	INFO	Marionette enabled
+1683664200507	Marionette	INFO	Listening on port 50524
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:50519
+Read port: 50524
+1683664200673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/mp6n1zx56d3bzzl2l4hk90p00000gn/T/rust_mozprofile2sfbRz/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:50519/devtools/browser/9617784c-5bbb-437f-8c73-5e5d618c1121
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://my.replika.com."
+JavaScript warning: https://1925482343.rsc.cdn77.org/unity_web_engine/6c1244fe25bcf0ed233dd43d17567db3.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+1683664222240	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: , line 0: WebGL warning: drawElementsInstanced: Depth texture comparison requests (e.g. `LINEAR`) Filtering, but behavior is implementation-defined, and so on some systems will sometimes behave as `NEAREST`. (warns once)
+1683664243200	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: After reporting 32, no further warnings will be reported for this WebGL context.
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: After reporting 32, no further warnings will be reported for this WebGL context.
+1683667127687	Marionette	INFO	Stopped listening on port 50403
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1683667138723	geckodriver	INFO	Listening on 127.0.0.1:50711
+1683667139167	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vk/mp6n1zx56d3bzzl2l4hk90p00000gn/T/rust_mozprofileoHe67b"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683667139479	Marionette	INFO	Marionette enabled
+1683667139552	Marionette	INFO	Listening on port 50717
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 50717
+WebDriver BiDi listening on ws://127.0.0.1:50712
+1683667139643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/mp6n1zx56d3bzzl2l4hk90p00000gn/T/rust_mozprofileoHe67b/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:50712/devtools/browser/ae2be218-938d-4fae-8ada-63b207b89ffb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://my.replika.com."
+JavaScript warning: https://1925482343.rsc.cdn77.org/unity_web_engine/6c1244fe25bcf0ed233dd43d17567db3.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1683667142366	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: drawElementsInstanced: Depth texture comparison requests (e.g. `LINEAR`) Filtering, but behavior is implementation-defined, and so on some systems will sometimes behave as `NEAREST`. (warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: After reporting 32, no further warnings will be reported for this WebGL context.
